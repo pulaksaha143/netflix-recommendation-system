@@ -53,7 +53,7 @@ Handling 21 million rows in standard RAM is challenging. This project utilizes:
 
 The core engine uses **SVD**, which decomposes the rating matrix **R** into three matrices:
 
-$$`R = U \Sigma V^T`$$
+$`R = U \Sigma V^T`$
 
 
 This allows the model to "predict" ratings for movies a user has never seen based on the behavior of similar users.
