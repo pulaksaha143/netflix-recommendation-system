@@ -1,0 +1,6 @@
+scikit-surprise
+pandas
+numpy<2.0
+joblib
+pyarrow
+python-dotenv
