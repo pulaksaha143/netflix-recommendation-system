@@ -65,7 +65,8 @@ This allows the model to "predict" ratings for movies a user has never seen base
 
 ```Bash
 
-git clone [https://github.com/yourusername/netflix-recommendation.git](https://github.com/yourusername/netflix-recommendation.git)  cd netflix-recommendation 
+git clone https://github.com/pulaksaha143/netflix-recommendation-system.git  
+cd netflix-recommendation 
 
 ```
 ### 2\. Environment Setup
