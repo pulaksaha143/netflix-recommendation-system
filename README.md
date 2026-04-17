@@ -75,7 +75,7 @@ It is recommended to use a virtual environment or Google Colab.
 
 ```Bash
 
-pip3 install -r requirements.txt   `
+pip3 install -r requirements.txt
 
 ```
 
